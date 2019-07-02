@@ -12,7 +12,7 @@ import {
 
 import ThumbnailField from '../products/ThumbnailField';
 import ProductRefField from '../products/ProductRefField';
-
+//test commit a comment
 const CategoryTitle = translate(({ record, translate }) => (
     <span>
         {translate('resources.categories.name', { smart_count: 1 })} &quot;
